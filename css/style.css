@@ -1,0 +1,24 @@
+body {
+    background-color: #E4EDDB;
+    text-align: center;
+    list-style: none;
+}
+
+header {
+    background-color: #144D53;
+    color: whitesmoke;
+}
+
+header a {
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+}
+
+img {
+    width: 50%;
+}
